@@ -1,2 +1,2 @@
 # STM32-Libraries
-This repo include stm32 libraries. 
+This repo includes my stm32 libraries and shortcuts.
